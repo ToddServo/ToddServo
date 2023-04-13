@@ -1,7 +1,7 @@
 ### ₕₒw dᵢd ᵢ gₑₜ ₕere 👋
 #### This is an account for fiddling with ...
-🔧 𝐖𝐫𝐞𝐧𝐜𝐡   -  🔨 ℌ𝔞𝔪𝔪𝔢𝔯
-idk...whatever....lol.....🤷
+
+🔧 𝐖𝐫𝐞𝐧𝐜𝐡   -  🔨 ℌ𝔞𝔪𝔪𝔢𝔯  -  idk...whatever....lol.....🤷
 
 Feel free to browse the repos. Enjoy!
 <!--
