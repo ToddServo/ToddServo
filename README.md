@@ -1,5 +1,9 @@
-### Hi there 👋
+### ₕₒw dᵢd ᵢ gₑₜ ₕere 👋
+#### This is an account for fiddling with ...
+🔧 𝐖𝐫𝐞𝐧𝐜𝐡   -  🔨 ℌ𝔞𝔪𝔪𝔢𝔯
+idk...whatever....lol.....🤷
 
+Feel free to browse the repos. Enjoy!
 <!--
 **ToddServo/ToddServo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
