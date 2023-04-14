@@ -1,10 +1,8 @@
 
-![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-shanghai-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
-![stufffff](https://badgen.net/badge/:Age/:40/:#0F111B)
-![coooool](https://badgen.net/badge/:Platform/:Debian,KDE,Firefox?list=|&scale=2)
+![living](https://badgen.net/badge/Living/Denver/Blue)
+![age](https://badgen.net/badge/Age/40/Purple)
+![skill](https://badgen.net/badge/Focus/Administration/Grey)
+![ristro](https://badgen.net/badge/Distro/Debian,KDE,Firefox?list=|&scale=2)
 
 
 ### Visitor count
