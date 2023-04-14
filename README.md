@@ -2,8 +2,19 @@
 
 ![living](https://badgen.net/badge/Living/Denver/express?color=002D62&scale=1.25)
 ![age](https://badgen.net/badge/Age/40/express?color=1a0f96&scale=1.25)
-![skill](https://badgen.net/badge/Focus/Administration/express?color=333&scale=1.25)
 ![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&color=2c2c47&scale=1.25)
+![skill](https://badgen.net/badge/Focus/Administration/express?color=333&scale=1.25)
+
+
+
+
+
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="250px" height="250px"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="250px" height="250px"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="250px" height="250px"> |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="250px" height="250px">  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="250px" height="250px"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="250px" height="250px"> |
+|   |   |   |
+|   |   |   |
+
 
 
 ### Visitor count
