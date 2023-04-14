@@ -1,10 +1,10 @@
 
-![living](https://badgen.net/badge/Living/Denver/express?color=843321)
-![age](https://badgen.net/badge/Age/40/Purple)
-![skill](https://badgen.net/badge/Focus/Administration/Grey)
+![living](https://badgen.net/badge/Living/Denver/express?color=002D62)
+![age](https://badgen.net/badge/Age/40/express?color=270b45)
+![skill](https://badgen.net/badge/Focus/Administration/express?color=515151)
 
 
-![ristro](https://badgen.net/badge/Distro/Debian,KDE,Firefox?list=|&scale=2)
+![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&scale=2)
 
 
 ### Visitor count
@@ -13,7 +13,7 @@
 ### 📫 Reach me at 
 ![Mastodon](https:/www.w.w.w.w)
 
-⭐️ From [windard](https://github.com/windard)
+⭐️ From [ToddServo](https://github.com/ToddServo)
 
 
 
