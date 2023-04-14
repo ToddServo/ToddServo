@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Todd Servo</h1>
 
 ![living](https://badgen.net/badge/Living/Denver/express?color=002D62&scale=1.25)
 ![age](https://badgen.net/badge/Age/40/express?color=1a0f96&scale=1.25)
 ![skill](https://badgen.net/badge/Focus/Administration/express?color=333&scale=1.25)
-![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&?color=2c2c47&scale=1.25)
+![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&color=2c2c47&scale=1.25)
 
 
 ### Visitor count
@@ -13,7 +14,31 @@
 
 ⭐️ From [ToddServo](https://github.com/ToddServo)
 
-
+![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![amazonwebservices](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg.svg)
+![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+![ansible](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg.svg)
+![apache](https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg.svg)
+![bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
+![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg)
+![codepen](https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg)
+![debian](https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg)
+![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+![drupal](https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg)
+![firefox](https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg)
+![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
+![hugo](https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg)
+![kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
+![latex](https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg)
+![markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)
+![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
+![prometheus](https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg)
+![sqlite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg)
+![ssh](https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg)
+![terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg)
+![ubuntu](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg)
+![wordpress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg)
 
 
 
@@ -328,7 +353,7 @@ hjDs
 
 
 
-<h1 align="center">Hi 👋, I'm guy</h1>
+
 <h3 align="center">Im a guy</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asdasd" alt="asdasd" /></a> </p>
@@ -351,7 +376,108 @@ hjDs
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p
+ align="left">
+        <a href="https://developer.android.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+ alt="android" width="40" height="40"/>
+        </a>
+         
+        <a href="https://aws.amazon.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+ alt="aws" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.gnu.org/software/bash/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+alt="bash" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.docker.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+ alt="docker" width="40" height="40"/>
+        </a>
+         
+        <a href="https://git-scm.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+alt="git" width="40" height="40"/>
+        </a>
+         
+        <a href="https://grafana.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
+alt="grafana" width="40" height="40"/>
+        </a>
+         
+        <a href="https://gohugo.io/" target="_blank" 
+rel="noreferrer">
+          <img src="https://api.iconify.design/logos-hugo.svg" 
+alt="hugo" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.adobe.com/in/products/illustrator.html" 
+target="_blank" rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+ alt="illustrator" width="40" height="40"/>
+        </a>
+         
+        <a href="https://jekyllrb.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" 
+alt="jekyll" width="40" height="40"/>
+        </a>
+         
+        <a href="https://kubernetes.io" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+alt="kubernetes" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.linux.org/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+ alt="linux" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.mysql.com/" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+ alt="mysql" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.nginx.com" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+ alt="nginx" width="40" height="40"/>
+        </a>
+         
+        <a href="https://www.photoshop.com/en" target="_blank" 
+rel="noreferrer">
+          <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+ alt="photoshop" width="40" height="40"/>
+        </a>
+        </p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asdasd&show_icons=true&locale=en" alt="asdasd" /></p>
 
