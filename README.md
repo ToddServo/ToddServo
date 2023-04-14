@@ -15,32 +15,31 @@
 ⭐️ From [ToddServo](https://github.com/ToddServo)
 
 
-
-![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![amazonwebservices](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg.svg)
-![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
-![ansible](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg.svg)
-![apache](https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg.svg)
-![bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
-![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg)
-![codepen](https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg)
-![debian](https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg)
-![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-![drupal](https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg){:height="20px" width="20px"}
-![firefox](https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg){:height="30px" width="30px"}
-![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg){:height="40px" width="40px"}
-![hugo](https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg){:height="50px" width="50px"}
-![kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg){:height="3rem" width="3rem"}
-![latex](https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg)
-![markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)
-![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
-![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
-![prometheus](https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg)
-![sqlite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg)
-![ssh](https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg)
-![terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg)
-![ubuntu](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg)
-![wordpress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="250px" height="250px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="250px" height="250px">
 
 
 
