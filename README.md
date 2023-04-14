@@ -1,7 +1,7 @@
 
 ![living](https://badgen.net/badge/Living/Denver/express?color=002D62)
-![age](https://badgen.net/badge/Age/40/express?color=270b45)
-![skill](https://badgen.net/badge/Focus/Administration/express?color=515151)
+![age](https://badgen.net/badge/Age/40/express?color=3d14c4)
+![skill](https://badgen.net/badge/Focus/Administration/express?color=333)
 
 
 ![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&scale=2)
