@@ -1,7 +1,9 @@
 
-![living](https://badgen.net/badge/Living/Denver/Blue)
+![living](https://badgen.net/badge/Living/Denver/express?color=843321)
 ![age](https://badgen.net/badge/Age/40/Purple)
 ![skill](https://badgen.net/badge/Focus/Administration/Grey)
+
+
 ![ristro](https://badgen.net/badge/Distro/Debian,KDE,Firefox?list=|&scale=2)
 
 
