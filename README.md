@@ -14,6 +14,8 @@
 
 ⭐️ From [ToddServo](https://github.com/ToddServo)
 
+
+
 ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
 ![amazonwebservices](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg.svg)
 ![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
@@ -24,11 +26,11 @@
 ![codepen](https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg)
 ![debian](https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg)
 ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-![drupal](https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg)
-![firefox](https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg)
-![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
-![hugo](https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg)
-![kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg)
+![drupal](https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg){:height="20px" width="20px"}
+![firefox](https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg){:height="30px" width="30px"}
+![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg){:height="40px" width="40px"}
+![hugo](https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original-wordmark.svg){:height="50px" width="50px"}
+![kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg){:height="3rem" width="3rem"}
 ![latex](https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg)
 ![markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)
 ![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
