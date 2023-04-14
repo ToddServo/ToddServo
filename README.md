@@ -1,10 +1,10 @@
 
-![living](https://badgen.net/badge/Living/Denver/express?color=002D62)
-![age](https://badgen.net/badge/Age/40/express?color=3d14c4)
-![skill](https://badgen.net/badge/Focus/Administration/express?color=333)
+![living](https://badgen.net/badge/Living/Denver/express?color=002D62&scale=1.25)
+![age](https://badgen.net/badge/Age/40/express?color=1a0f96&scale=1.25)
+![skill](https://badgen.net/badge/Focus/Administration/express?color=333&scale=1.25)
 
 
-![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&scale=2)
+![distro](https://badgen.net/badge/Platform/Debian,KDE,Firefox?list=|&scale=1.25)
 
 
 ### Visitor count
